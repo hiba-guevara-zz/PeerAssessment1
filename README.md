@@ -16,22 +16,22 @@ In the sixth section,
 
 
 **Variable description:**
-- activity_labels:
+- activity\_labels: data extracted from activit_labels.txt
 - additional_variables:
 - all_variables:
-- features:
-- new_tidy_data:
-- subject_test:
-- subject_train:
-- subject_y_test:
-- subject_y_train:
-- subject_yx_test:
-- subject_yx_train:
-- test_train:
-- x_test:
-- x_train:
-- y_test:
-- y_train:
+- features: data extracted from features.txt
+- new\_tidy_data: tidy data with the average values     _Sixth requirement_
+- subject\_test: data extracted from subject_test.txt
+- subject\_train: data extracted from subject_train.txt
+- subject\_y_test: result of merging subject\_test and y_test
+- subject\_y_train: result of merging subject\_train and y_train
+- subject\_yx_test: result of merging subject\_y_test and x_test
+- subject\_yx_train: result of merging subject\_y_train and x_train
+- test\_train: result of merging subject\_yx_test and subject\_yx_train   _Second requirement_
+- x\_test: data extracted from X_test.txt
+- x\_train: data extracted from X_train.txt
+- y\_test: data extracted from y_test.txt
+- y\_train: data extracted from y_train.txt
 - act:
 - activities:
 - i:
