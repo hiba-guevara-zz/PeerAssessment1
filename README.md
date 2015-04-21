@@ -1,4 +1,4 @@
-PeerAssessment1
+Peer Assessment in Getting and Cleaning Data
 ===============
 
-Peer Assessment in Getting and Cleaning Data
+Variable description:
