@@ -13,7 +13,7 @@ In the fourth section, I matched the number of the activity to its name (reading
 
 In the fifth section, I use the data I extracted from features.txt and the two vectors I created to label the columns in the merged data set (done in second section).    _Fourth requirement_
 
-In the sixth section, I go through every row/observation in the new data set, add the appropriate subject number and activity type, and fill the rest of the variables with the average of the 
+In the sixth section, I go through every row/observation in the new data set, add the appropriate subject number and activity type, and fill the rest of the variables with the average of each variable for each activity and each subject.
 
 
 
